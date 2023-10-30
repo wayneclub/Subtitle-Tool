@@ -1,0 +1,6 @@
+lxml
+beautifulsoup4
+chardet
+pysubs2
+cn2an
+opencc
